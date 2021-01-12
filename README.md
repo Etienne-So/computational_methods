@@ -1,4 +1,4 @@
-#Computational Methods & C++
+# Computational Methods & C++
 The application of numerical schemes for the solution of partial differential equations using C++ Object Oriented language.
 
 The first order wave equation
